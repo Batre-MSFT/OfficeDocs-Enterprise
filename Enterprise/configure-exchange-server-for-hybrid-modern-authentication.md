@@ -18,10 +18,8 @@ description: "Hybrid Modern Authentication (HMA), is a method of identity manage
 
 Hybrid Modern Authentication (HMA), is a method of identity management that offers more secure user authentication and authorization, and is available for Exchange server on-premises hybrid deployments.
   
-## FYI
+The Terminology used in this article:
 
-Before we begin, I call:
-  
 - Hybrid Modern Authentication \> HMA
     
 - Exchange on-premises \> EXCH
